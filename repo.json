@@ -1,0 +1,14 @@
+[{
+  "Name": "nix",
+  "Description": "nix-linter plugin and syntax",
+  "Tags": ["nix"],
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "Url": "https://github.com/vandervoortj/micro-nix-plugin/archive/0.0.1.zip",
+      "Require": {
+        "micro": ">=1.0.8"
+      }
+    }
+  ]
+}]
