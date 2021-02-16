@@ -4,8 +4,8 @@
   "Tags": ["nix"],
   "Versions": [
     {
-      "Version": "0.0.1",
-      "Url": "https://github.com/vandervoortj/nix-micro-plugin/archive/0.0.1.zip",
+      "Version": "0.0.2",
+      "Url": "https://github.com/vandervoortj/nix-micro-plugin/archive/0.0.2.zip",
       "Require": {
         "micro": ">=1.0.8"
       }
